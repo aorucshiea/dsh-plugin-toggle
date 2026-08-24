@@ -1,0 +1,6 @@
+# dsh-plugin-toggle bundle patch: mount the hot-plug plugin toggle over the
+# dsh-web-app layer (its injected `webServer` service lives there).
+- insert:
+    - id: dsh-plugin-toggle
+      name: '@dsh-external/dsh-plugin-toggle'
+      config: {}
