@@ -1,7 +1,7 @@
 {
   "name": "@dsh-external/dsh-plugin-toggle",
-  "description": "Hot-plug toggle switches for installed DSH plugins: enable/disable without restart",
-  "version": "0.1.0",
+  "description": "Hot-plug toggle switches for installed DSH plugins: enable/disable without restart; auto-hiding preset-switch header menu",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aorucshiea/dsh-plugin-toggle.git"

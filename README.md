@@ -8,6 +8,7 @@ Hot-plug enable/disable switches for installed DeepSeek Harness plugins, without
 - Enable / disable plugins live.
 - Protect core plugins (`CORE_DENYLIST`) from being disabled.
 - Auto-applies patches to official plugin inventory UI on startup.
+- The session-header preset dropdown now auto-hides when `dsh-preset-switch` is disabled (polling every 5s + on window focus, no manual refresh needed).
 - Works in the DSH Web UI Plugin list.
 
 ## Install
