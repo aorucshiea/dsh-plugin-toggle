@@ -2,6 +2,8 @@
 
 Hot-plug enable/disable switches for installed DeepSeek Harness plugins, without restarting DSH.
 
+![Plugin list with descriptions and hot-plug switches](docs/plugin-list.png)
+
 ## Features
 
 - List installed plugins with descriptions.
